@@ -1,0 +1,3 @@
+source setup_base_case2
+
+make_args="Pete -f makefile2"

@@ -1,0 +1,7 @@
+rm -f Beatles John Paul George Ringo Stu Pete Brian Phil Yoko Linda Wings
+touch -t 1704180931.00 Paul
+touch -t 1704180932.00 John
+touch -t 1704180933.00 George
+touch -t 1704180934.03 Wings
+touch -t 1704180935.01 Beatles
+touch -t 1704180936.00 Phil

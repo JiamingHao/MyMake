@@ -1,0 +1,3 @@
+source setup_base_case3
+
+make_args="-f makefile2 Beatles"

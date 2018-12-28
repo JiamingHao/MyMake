@@ -1,0 +1,18 @@
+Ringo : Phil Yoko Beatles Wings Brian Stu
+
+Yoko : Linda Beatles George Pete Paul Phil
+	touch -t 1704190101.55 Yoko
+	echo Here is a message
+	rm George
+	echo Here we go again
+	echo Last one for now
+Brian : Beatles Linda
+	echo Brain Brian Brian
+	touch -t 1704190101.33 Linda
+	echo Not going to build Brian
+Linda : Pete Beatles Brian Ringo
+	touch -t 1704190101.22 Paul
+	touch -t 1704190101.24 Linda
+	echo This is a weird makefile
+
+

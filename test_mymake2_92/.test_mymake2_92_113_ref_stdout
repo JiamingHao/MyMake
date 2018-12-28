@@ -1,0 +1,17 @@
+Brain Brian Brian
+Not going to build Brian
+This is a weird makefile
+Here is a message
+Here we go again
+Last one for now
+echo Brain Brian Brian
+touch -t 1704190101.33 Linda
+echo Not going to build Brian
+touch -t 1704190101.22 Paul
+touch -t 1704190101.24 Linda
+echo This is a weird makefile
+touch -t 1704190101.55 Yoko
+echo Here is a message
+rm George
+echo Here we go again
+echo Last one for now

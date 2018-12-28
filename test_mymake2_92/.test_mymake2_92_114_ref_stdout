@@ -1,0 +1,9 @@
+This is a weird makefile
+Brain Brian Brian
+Not going to build Brian
+touch -t 1704190101.22 Paul
+touch -t 1704190101.24 Linda
+echo This is a weird makefile
+echo Brain Brian Brian
+touch -t 1704190101.33 Linda
+echo Not going to build Brian

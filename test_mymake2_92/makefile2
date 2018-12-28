@@ -1,0 +1,23 @@
+Beatles: Ringo Phil Wings Yoko
+	touch -t 1704190102.12 Beatles
+Wings: John Brian Ringo
+	touch -t 1704190102.07 Wings
+Ringo:Yoko    Paul
+	echo Just printing stuff out
+	touch -t 1704190102.03 Ringo
+	echo More stuff
+Brian:   Stu
+	touch -t 1704190101.57 Brian
+	echo More stuff
+	echo We are testing stuff
+	echo Testing testing testing
+Phil :Yoko Linda Pete Paul
+	touch -t 1704190101.50 Phil
+Pete : George
+	touch -t 1704190101.43 Pete
+George : 
+	touch -t 1704190101.39 George
+Yoko : Paul
+	touch -t 1704190101.33 Yoko
+Paul : Pete Linda
+	touch -t 1704190101.30 Paul

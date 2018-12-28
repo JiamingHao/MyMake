@@ -1,0 +1,19 @@
+Wings:
+	touch -t 1704190101.32 Wings
+Paul:Phil    John Brian   Stu  
+	echo Just printing stuff out
+	touch -t 1704190101.53 Paul
+	echo More stuff
+Yoko:   Phil   Paul
+	touch -t 1704190101.57 Yoko
+	echo More stuff
+	echo We are testing stuff
+	echo Testing testing testing
+John :Wings George Stu Ringo Linda   Beatles Pete
+	touch -t 1704190101.50 John
+Brian : Phil Beatles
+	touch -t 1704190101.43 Brian
+Phil : 
+	touch -t 1704190101.39 Phil
+Linda :
+	touch -t 1704190101.33 Linda

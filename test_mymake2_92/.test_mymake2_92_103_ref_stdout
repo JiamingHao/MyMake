@@ -1,0 +1,10 @@
+Just printing stuff out
+More stuff
+touch -t 1704190101.30 Paul
+touch -t 1704190101.33 Yoko
+echo Just printing stuff out
+touch -t 1704190102.03 Ringo
+echo More stuff
+touch -t 1704190101.50 Phil
+touch -t 1704190102.07 Wings
+touch -t 1704190102.12 Beatles
